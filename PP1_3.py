@@ -1,14 +1,23 @@
 
 
 def q1():
-  #Write Assignment code here
-  #Remember your code must be indented once
+# shape A 
+
+  print(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *")
+
+# Shape B
+
+  print(" * * * * *\n *" + " "*7 + "*\n *" + " "*7 + "*\n *" + " "*7 + "*\n *" + " *"*4)
+
+# Shape C
+
+  print("* * * * * *\n *" + " "*7 + "*\n" + " "*2  + "*" + " "*5 + "*\n" + " "*3  + "*" + " "*3 + "*\n" + " "*4 + "* *\n" +" "*5 + "*" )
 
 def q2():
-  #Write Assignment code here
+  print("hello\nworld")
   
 def q3():
-  #Write Assignment code here
+  print("Man\nOverboard\nMan Overboard")
   
 
 
