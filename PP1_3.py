@@ -8,10 +8,12 @@ def q1():
 
 
 def q2():
-  print("hello\nworld")
+  x = print("Hello")
+  y = print("World")
+  print(f"{x} {y}")
   
 def q3():
-  print("Man\nOverboard\nMan Overboard")
+  print("Man\nBoard\nMan Overboard")
   
 
 
